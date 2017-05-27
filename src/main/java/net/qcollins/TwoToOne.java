@@ -16,13 +16,8 @@ public class TwoToOne {
     		stringSet.add(c);
     	}
     	for(Character c: stringSet){
-    		sortedString += c;
-    		
+    		sortedString += c;	
     	}
-    	
-    	
-    	
-    	
     	System.out.print(sortedString);
     	return sortedString;
     }
